@@ -6,5 +6,5 @@
 
 -----
 <p align="center"> 
-  <img src="" width="900"/>
+  <img src="https://github.com/twohipps/Visualizing-Data-with_Leaflet/blob/master/HW/Images/ScreenShot%20.png" width="900"/>
  </p>
